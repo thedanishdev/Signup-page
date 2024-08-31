@@ -1,4 +1,7 @@
 # Signup-page
 
+
+Author: Danish Naseer
+
 Thsis is the SignUp-page created using glassmorphic effect.
-And This is the first git repository.
+And this is my first git repository.
